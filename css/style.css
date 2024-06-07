@@ -29,7 +29,7 @@ nav ul li {
   height: 93vh;
   background-color: black;
   width: auto;
-  background-image: url("/images/hero-flipped.png");
+  background-image: url("../images/hero-flipped.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
